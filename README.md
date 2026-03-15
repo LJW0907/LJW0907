@@ -2,7 +2,7 @@
 
 ### Tech Stack
 **Learning** : Java, Kotlin, Spring Boot  
-**Experienced** : Python, AWS, React
+**Experienced** : Python, AWS, React, RAG(Milvus, Neo4j)
 
 ### Focus
 - Spring Boot 기반 백엔드 개발
