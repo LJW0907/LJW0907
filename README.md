@@ -1,4 +1,4 @@
-## 백엔드 개발자를 지향
+## RAG, 백엔드 개발자를 지향
 
 ### Tech Stack
 **Learning** : Java, Kotlin, Spring Boot  
